@@ -1,1 +1,1 @@
-# Playwright_TS
+# Playwright_JS
